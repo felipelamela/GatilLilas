@@ -1,8 +1,11 @@
 import React from 'react'
+import Button from '../Components/GlobalComponents/Button'
 
 const index = () => {
   return (
-    <div>index</div>
+    <>
+      <Button />
+    </>
   )
 }
 
