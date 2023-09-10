@@ -1,4 +1,5 @@
-import type { AppProps } from 'next/app'
+import type { AppProps } from 'next/app';
+import "../pages/global.css";
 import React from "react"
 
 export default function App({ Component, pageProps }: AppProps) {
